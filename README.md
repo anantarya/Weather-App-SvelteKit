@@ -1,6 +1,8 @@
 # create-svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+This is a basic weather app made with SvelteKit. The data are retrieved from the OpenWeather API.
+
+[(https://weather-app-svelte-kit-anantarya.vercel.app/)]
 
 ## Creating a project
 
